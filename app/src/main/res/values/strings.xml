@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Philippine Money Converter</string>
+    <string name="hello_world">PESO: </string>
+    <string name="action_settings">Settings</string>
+    <string name="textView">PESO</string>
+    <string name="textView2">DOLLAR</string>
+    <string name="editText"></string>
+    <string name="editText2"></string>
+    <string name="button">COMPUTE</string>
+    <string name="textView3">RESULT:</string>
+    <string name="textView4"></string>
+
+</resources>
